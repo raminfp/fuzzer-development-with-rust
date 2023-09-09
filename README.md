@@ -65,3 +65,6 @@
 <br />
 
 `TODO - Modern Fuzzer Development With Rust (Advanced)`
+
+
+###### Happy Birthday to me (1993-09-09)
